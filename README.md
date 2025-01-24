@@ -27,6 +27,8 @@ git checkout main
 
 ## Documentos de entrega a la práctica
 
+[Git.pdf](https://github.com/zonkoholland/p1-fork/blob/documentos/Git.pdf)
+[entorno.pdf](https://github.com/zonkoholland/p1-fork/blob/documentos/entorno.pdf)
 
 
 ## git clone
