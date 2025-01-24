@@ -50,7 +50,10 @@ C:\Users\holla\Documents\ICAI\AAA Tercero\Programación de Aplicaciones Telemát
   main
 ```
 
- 
+## git status
 
+Se muestran los cambios listos para hacer `commit`:
+ 
+![git_clone image](photos/git_status.png)
 
 
