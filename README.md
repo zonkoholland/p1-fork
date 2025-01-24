@@ -25,6 +25,10 @@ git checkout main
 
 # Práctica 1 - Marco Holland
 
+## Documentos de entrega a la práctica
+
+
+
 ## git clone
 
 Clonado del repositorio p1-fork a local:
@@ -55,5 +59,28 @@ C:\Users\holla\Documents\ICAI\AAA Tercero\Programación de Aplicaciones Telemát
 Se muestran los cambios listos para hacer `commit`:
  
 ![git_clone image](photos/git_status.png)
+
+## git push
+
+Se empujan los cambios guardados, actualizándose en remoto:
+
+```
+C:\Users\holla\Documents\ICAI\AAA Tercero\Programación de Aplicaciones Telemáticas\GitHub\p1-fork>git branch
+* documentos
+  main
+
+C:\Users\holla\Documents\ICAI\AAA Tercero\Programación de Aplicaciones Telemáticas\GitHub\p1-fork>git push
+info: please complete authentication in your browser...
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 140.18 KiB | 11.68 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/zonkoholland/p1-fork.git
+   b9821a7..28907f8  documentos -> documentos
+
+C:\Users\holla\Documents\ICAI\AAA Tercero\Programación de Aplicaciones Telemáticas\GitHub\p1-fork>
+```
 
 
